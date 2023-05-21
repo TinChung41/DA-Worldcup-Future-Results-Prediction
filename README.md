@@ -33,7 +33,7 @@ Top 10 teams based on FIFA rank
 ![image](https://github.com/TinChung41/DA-Worldcup-Future-Results-Prediction/assets/98845918/8c9ce0eb-ff49-4b44-ac5d-135148f7f498)
 
 * Top 10 teams with the highest atacking point
-* 
+
 ![image](https://github.com/TinChung41/DA-Worldcup-Future-Results-Prediction/assets/98845918/1f03f1b4-7bc5-4f29-bcf1-dd124805ea78)
 
 * Top 10 teams with the highest midfield points
