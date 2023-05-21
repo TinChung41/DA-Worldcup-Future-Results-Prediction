@@ -56,6 +56,7 @@ accountable when we make our prediction of which team/country would win the
 2022 World Cup title
 
 2022 qualified teams
+
 ![image](https://github.com/TinChung41/DA-Worldcup-Future-Results-Prediction/assets/98845918/ab706338-36ab-4b67-bbd2-761032ae27cc)
 
 All the 21 rankings mean over time are all in the range 55(Saudi Arabia
