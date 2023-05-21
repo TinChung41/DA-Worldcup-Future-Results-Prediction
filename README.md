@@ -64,7 +64,7 @@ approximately 56.647, ). The outliers clearly are Canada and Qatar rank up
 ![image](https://github.com/TinChung41/DA-Worldcup-Future-Results-Prediction/assets/98845918/44cb8e44-d704-44db-ad37-ad408adc1de2)
 
 ## Predictions for Knockout Stage - Removing Draw status
-![image](https://github.com/TinChung41/DA-Worldcup-Future-Results-Prediction/assets/98845918/a410fc83-7a60-40ba-96c9-30e57e848f60)
+![image](https://github.com/TinChung41/DA-Worldcup-Future-Results-Prediction/assets/98845918/c3988327-1974-4d78-b036-3d88841fe2dd)
 
 ## Simulation for Round 16, Quarter-Final World, Semi-Final World Cup, and  Winner World Cup 2022
 ![image](https://github.com/TinChung41/DA-Worldcup-Future-Results-Prediction/assets/98845918/2e397931-c897-41e7-9e97-89f1dcd24244)
