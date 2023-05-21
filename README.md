@@ -1,5 +1,5 @@
 # DA-Worldcup-Future-Results-Prediction
-You can see the colab notebook using this [link]([url](https://colab.research.google.com/drive/18z2ytzwypwl8JWMsLuyv6JAjwHMD-5hr?usp=sharing))
+You can see the colab notebook using this [link](https://colab.research.google.com/drive/18z2ytzwypwl8JWMsLuyv6JAjwHMD-5hr?usp=sharing)
 
 ## Data
 The project utilizes a comprehensive dataset of historical World Cup match results. We have obtained this data from the "International
